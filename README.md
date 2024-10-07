@@ -1,1 +1,4 @@
-Entity Framework Code First relational table practice
+Entity Framework Code First
+
+
+Relational table practice
